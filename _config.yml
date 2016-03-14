@@ -2,6 +2,7 @@ name: MyLanguageGuide
 favicon: null
 layout_spectrum: 0.9360805393662304
 typography_spectrum: 0.40464398567564785
+title: My Language Guide
 cta:
   domain: null
   bucket: null
