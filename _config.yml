@@ -1,0 +1,28 @@
+name: MyLanguageGuide
+favicon: null
+layout_spectrum: 0.9360805393662304
+typography_spectrum: 0.40464398567564785
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.7827366304118186
+  lightness: 0.7350640061777085
+  saturation: 0.37681081029586494
+  rhythmicContrast: 0.9159235754050314
+purpose: []
